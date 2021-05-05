@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	height: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+   	padding-right: 30px;
+	padding-left: 30px; 
+}
+
+ul {
+	text-decoration: none;
+}
+
+.uno {
+    height: 400px;
+    width: 220px;
+	float: left;
+	background-color: #F28101;
+	font-family: Lexend Deca;
+	font-size: 15px;
+	border-radius: 20px 0 0 20px;
+}
+
+.dos {
+    height: 400px;
+    width: 220px;
+	float: left;
+	background-color: #22A494;
+	font-family: Lexend Deca;
+	font-size: 15px;
+
+}
+
+.tres {
+    height: 400px;
+    width: 220px;
+	float: left;
+	background-color: #1B5D5D;
+	font-family: Lexend Deca;
+	font-size: 15px;
+	border-radius: 0 20px 20px 0;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
